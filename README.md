@@ -5,7 +5,7 @@ In many cases this string is a JSON.
 
 ### Challenge 
 In our sample the json can be mapped to ModelA or ModelB or neither.
-By using ‘RxStarScream’ I created 2 Maybe<ModelA> and Maybe<ModelB> that updates UI whether the received JSON can be mapped to observeable’s type or not.
+By using ‘RxStarScream’ I created 2 ` Maybe<ModelA> ` and Maybe<ModelB> that updates UI whether the received JSON can be mapped to observeable’s type or not.
 
 ## High level overview
 ![](https://github.com/behrad-kzm/RxStarscreamMultimodel/blob/master/res/Untitled%20Diagram.png)
