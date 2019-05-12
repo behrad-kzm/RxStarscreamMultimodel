@@ -4,4 +4,4 @@
  in this example we used maybe to create observables of modelA and modelB
  when the emited json mapped to ModelA other observables doesnt notify except the observable of ModelA and same to ModelB
 ## High level overview
-![](https://raw.githubusercontent.com/sergdort/CleanArchitectureRxSwift/master/Architecture/Modules.png)
+![](https://github.com/behrad-kzm/RxStarscreamMultimodel/blob/master/res/Untitled%20Diagram.png)
