@@ -1,0 +1,42 @@
+PODS:
+  - Alamofire (4.8.2)
+  - RxAlamofire (4.4.1):
+    - RxAlamofire/Core (= 4.4.1)
+  - RxAlamofire/Core (4.4.1):
+    - Alamofire (~> 4.8)
+    - RxSwift (~> 4.5)
+  - RxCocoa (4.5.0):
+    - RxSwift (>= 4.4.2, ~> 4.4)
+  - RxStarscream (0.10):
+    - RxCocoa (~> 4.3)
+    - RxSwift (~> 4.3)
+    - Starscream (~> 3)
+  - RxSwift (4.5.0)
+  - Starscream (3.1.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - RxAlamofire
+  - RxStarscream
+  - RxSwift (~> 4.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - RxAlamofire
+    - RxCocoa
+    - RxStarscream
+    - RxSwift
+    - Starscream
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  RxAlamofire: ed65f451f5a9a59419b0b9e705043dc01410edd9
+  RxCocoa: cbf70265dc65a981d4ac982e513c10cf23df24a0
+  RxStarscream: aa79e742c87e9bcdff218a1ebb59638f5174589e
+  RxSwift: f172070dfd1a93d70a9ab97a5a01166206e1c575
+  Starscream: 08172b481e145289c4930cb567230fb55897cfa4
+
+PODFILE CHECKSUM: 3567f9573b67762d0fbd8b6aa256dbc3ac9a212a
+
+COCOAPODS: 1.5.3

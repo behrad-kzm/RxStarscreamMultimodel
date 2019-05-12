@@ -1,0 +1,6 @@
+framework module Pods_RxTestLab {
+  umbrella header "Pods-RxTestLab-umbrella.h"
+
+  export *
+  module * { export * }
+}
