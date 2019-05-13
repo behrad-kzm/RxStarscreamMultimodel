@@ -17,3 +17,13 @@ By using ‘RxStarScream’ I created 2 ` Maybe<ModelA> ` and ` Maybe<ModelB> ` 
 
 ### Notice 
 don’t forget to hit ‘star’ button on github 😋😉🤟🏻
+
+### Refrences
+* [RxSwift](https://github.com/ReactiveX/RxSwift)
+* [RxSwift Book](https://store.raywenderlich.com/products/rxswift)
+* [RxStarScream](https://github.com/RxSwiftCommunity/RxStarscream)
+
+### Contact me
+
+* feel free to contact by [Email](mailto://behrad.kzm@gmail.com)
+* or send me message on [Telegram](https://t.me/berad)
